@@ -13,6 +13,19 @@
   }
 }
 
+/* Add this CSS to your project's stylesheets */
+.custom-button {
+  background-color: #ffffff;
+  color: #f6b83c;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.custom-button:hover {
+  background-color: #f6b83c;
+  color: #ffffff;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
